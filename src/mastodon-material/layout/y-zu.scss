@@ -1,0 +1,82 @@
+// Navigation bar radius
+$nav-bar-radius: 4px !default;
+
+
+// Search bar radius
+$search-bar-radius: 4px !default;
+
+
+// Button radius settings
+$button-radius: 2px !default;
+
+
+// Card radius settings
+$card-radius: 4px !default;
+
+
+// Dialog radius settings
+$dialog-radius: 4px !default;
+
+
+// Menu radius settings
+$menu-radius: 4px !default;
+
+
+// Table radius settings
+$table-radius: 2px !default;
+
+
+// Media radius settings
+$media-radius: 0 !default;
+
+
+// Navigation drawer item settings
+$nav-drawer-item-radius: 0 !default;
+
+
+// Avatar cropping settings
+//$avatar-radius: 50% !default;  // Circular cropping
+$avatar-radius: 2px !default;  // Material v1 rounded square
+//$avatar-radius: $card-radius !default;  // Fit to card radius
+
+
+// Tab indicator thickness
+$tab-indicator-thickness: 2px !default;
+//$tab-indicator-thickness: 4px !default;
+
+
+// Chip settings
+$chip-type: contained !default;  // Material v1 styled contained chip
+
+//$chip-size: 16px !default;  // Chip height: 24px, Icon size: 16px (Mastodon default)
+//$chip-size: 20px !default;  // Chip height: 28px, Icon size: 20px
+$chip-size: 24px !default;  // Chip height: 32px, Icon size: 24px
+
+$chip-radius: 17px !default;  // Oval
+
+// Button on statuses
+//$button-on-status: text !default;  // Material v1 styled text button
+$button-on-status: outlined !default;  // Material v2 styled outlined button
+
+
+// Button shadow
+$button-shadow: true !default;  // Material v1 styled colored button with shadow
+
+
+// Floating Action Button size
+$fab-size: 56px !default;
+
+
+// CW text field border
+//$cw-text-field-border: underlined !default;
+//$cw-text-field-border: none !default;
+$cw-text-field-border: outlined !default;
+
+// Compose text field border
+//$compose-field-border: underlined !default;
+//$compose-field-border: none !default;
+$compose-field-border: outlined !default;
+
+// Other text field border
+$other-text-field-border: underlined !default;
+//$other-text-field-border: none !default;
